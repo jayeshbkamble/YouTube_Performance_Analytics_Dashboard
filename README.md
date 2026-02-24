@@ -28,6 +28,8 @@ Developed an interactive Excel dashboard to analyze YouTube channel performance 
 - Pivot Charts
 - Slicers
 - Data Cleaning
+- KPI Development
+- Data Visualization
 
 ## 📊 Business Impact
 - Identified 70% revenue driven by evergreen content
@@ -40,13 +42,6 @@ Developed an interactive Excel dashboard to analyze YouTube channel performance 
 - Core audience segment: 25–44 years
 - Opportunity to improve retention and RPM
 
-## 🛠 Tools Used
-- Microsoft Excel
-- Pivot Tables
-- Pivot Charts
-- Data Visualization
-- KPI Development
-
 ## 📁 Files Included
 - Excel Dashboard File
 - Presentation PDF
@@ -56,5 +51,10 @@ Developed an interactive Excel dashboard to analyze YouTube channel performance 
 
 ## 👤 Author
 
-Jayesh Kamble
+**Jayesh Kamble**  
+Data Analyst | Marketing Analytics | Excel  
+
+📫 Open to Data Analyst & Marketing Analyst opportunities  
+🔗 [LinkedIn](https://www.linkedin.com/in/jayeshbkamble)
+
 
