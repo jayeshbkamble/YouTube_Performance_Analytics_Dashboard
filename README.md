@@ -1,5 +1,8 @@
 # YouTube Performance Analytics Dashboard
 
+## 📷 Dashboard Preview
+![Dashboard Screenshot](dashboard_screenshot.png)
+
 ## 📊 Project Overview
 Developed an interactive Excel dashboard to analyze YouTube channel performance including views, watch time, revenue, subscribers, and audience demographics.
 
@@ -32,4 +35,5 @@ Developed an interactive Excel dashboard to analyze YouTube channel performance 
 ---
 
 ## 👤 Author
+
 Jayesh Kamble
