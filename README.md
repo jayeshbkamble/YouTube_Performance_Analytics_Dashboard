@@ -52,9 +52,10 @@ Developed an interactive Excel dashboard to analyze YouTube channel performance 
 ## 👤 Author
 
 **Jayesh Kamble**  
-Data Analyst | Marketing Analytics | Excel  
+Data Analyst | Marketing Analyst  
 
 📫 Open to Data Analyst & Marketing Analyst opportunities  
 🔗 [LinkedIn](https://www.linkedin.com/in/jayeshbkamble)
+
 
 
