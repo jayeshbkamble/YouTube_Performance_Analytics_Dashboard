@@ -14,6 +14,26 @@ Developed an interactive Excel dashboard to analyze YouTube channel performance 
 - Subscriber growth trend analysis
 - Interactive slicers for dynamic filtering
 
+## 🛠 Skills Demonstrated
+- Data Analysis
+- Data Visualization
+- KPI Development
+- Time-Series Analysis
+- Audience Segmentation
+- Business Insight Generation
+
+## 🧰 Tools & Technologies
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- Data Cleaning
+
+## 📊 Business Impact
+- Identified 70% revenue driven by evergreen content
+- Detected subscriber growth spike in early 2025
+- Highlighted retention improvement opportunity (0.55 avg watch time)
+
 ## 📈 Insights Generated
 - 70% of revenue driven by evergreen content
 - Significant subscriber spike in early 2025
@@ -37,3 +57,4 @@ Developed an interactive Excel dashboard to analyze YouTube channel performance 
 ## 👤 Author
 
 Jayesh Kamble
+
